@@ -12,4 +12,4 @@ uses processing 3 and the controlP5 library
 
 to create a gif I used the command `convert -delay 4 -loop 0 *tif first.gif` from the imagemagick package available on ubuntu.
 
-![an example gif](https://raw.githubusercontent.com/themoep/art_machines_ccu/first.gif)
+![an example gif](first.gif)
